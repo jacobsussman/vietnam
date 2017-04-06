@@ -1,0 +1,94 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, section { margin: 0; padding: 0; border: 0; outline: 0; }
+
+
+
+body {
+        
+        font-family: "Alegreya Sans";
+        color: white;
+    
+}
+
+
+h1 {
+
+    
+    font-size: 100px;
+
+    
+    float: right;
+    margin-top:20px;
+    margin-right:40px;
+    clear: both;
+    display:block;
+    
+}
+
+
+h2 {
+    font-size: 40px;
+    float: right;
+    max-width: 300px;
+    margin-right: 40px;
+    clear: both;
+    display:block;
+        min-width: 600px;
+
+}
+
+
+
+.controlBlock {
+    
+    float: right;
+    clear: both;
+    display:block;
+    min-width:700px;
+    
+    margin-top: 10px;
+}
+
+h3{
+    font-family: "Alegreya SC";
+
+    display: inline;
+    font-size: 25px;
+    position: relative;
+    bottom: 33px;
+    margin-left: 0px;
+    margin
+    
+    
+}
+
+.button {
+    display: inline;
+    position:relative;
+    transform: scale(.45, .45);
+    
+}
+
+
+.background {
+    position: absolute;
+    max-width:100%;
+    z-index: -100;
+    overflow: hidden;
+  
+}
+
+video {
+    position: absolute;
+    opacity: 0; 
+    right: 0; 
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    width: auto; 
+    height: auto; 
+    z-index: -100;
+    background-size: cover;
+    overflow: hidden;
+    
+}
+

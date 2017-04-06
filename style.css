@@ -1,0 +1,256 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, section { margin: 0; padding: 0; border: 0; outline: 0; }
+
+body {
+    font-family: 'Source Serif Pro', sans-serif;
+    color: #ffffff;
+    text-align: center;
+/*    background-color: rgb(148, 176, 1);*/
+    background-color: #610114;
+
+ }
+#openingBlock {
+    
+}
+
+#arrowBox {
+    
+    position: absolute;
+    top: 87%;
+    width:10%;
+    left: 45%;
+    margin-left: auto;
+    margin-right: auto;
+    opacity: 0;
+}
+
+#content {
+}
+
+
+#box1{
+    
+}
+img {
+}
+
+#spacer1{
+    
+    height: 1px;
+    
+}
+
+#content1 {
+    height:100000px;
+    
+}
+
+#map {
+    width: 200px;
+  
+}
+
+#map-png{
+    max-width: 20%;
+    position: relative;
+    margin-top: 120%;
+}
+
+
+
+#info-box {
+    background-color: white;
+    opacity: .2;
+    position: absolute;
+    width: 20%;
+    top: 20px;
+    left: 20px;
+    
+}
+#info-text{
+    
+    opacity: 1;
+    color: white;
+    z-index: inherit;
+    
+}
+
+h1 {
+    font-family: 'Adobe Garamond Pro', serif;
+    font-size: 250px;
+        color: rgb(227, 216, 24);
+
+/*    color: rgb(176, 1, 37);*/
+
+    font-weight: 700;
+/*    font-style: italic;*/
+    
+
+}
+
+h2 {
+        font-family: 'Adobe Garamond Pro', serif;
+
+    font-size: 157px;  
+        color: white;
+    font-style: italic;
+    font-weight: 400;
+    color: rgb(227, 216, 24);
+/*        color: rgb(157, 1, 176);*/
+
+
+}
+
+h6 {
+    font-family:"Cooper Hewitt";
+    font-size: 15px;
+    
+    
+}
+
+#title {
+    position: absolute;
+    width: 90%;
+    left: 5%;
+    top: 37%;
+    color: black;
+    opacity: 0;
+
+}
+
+#title2 {
+    position: absolute;
+    
+    left: 2%;
+    top:15%;
+        opacity: 0;
+
+    
+}
+
+
+
+#italic {
+    position: relative;
+    right: 28%;
+    
+    
+}
+
+#thick{
+    position: relative;
+    left: 17%;
+}
+
+#subtitle {
+    position: absolute;
+    width: 70%; 
+    left: 15%;
+    top: 80%;
+    opacity:0;
+}
+
+h3 {
+    font-family: 'Adobe Garamond Pro', serif;
+    font-size: 40px;
+    font-weight: 400;
+    color: white;
+        color: rgb(348,99, 93);
+
+}
+
+p {
+    font-family: 'Cooper Hewitt', serif;    
+    font-size: 18px;
+    margin-bottom: 18px;
+    line-height: 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#section-1 {
+}
+
+.video{ 
+}
+
+#flag {
+    position: absolute; 
+    right: 0; 
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    width: auto; 
+    height: auto; 
+    z-index: -100;
+    background-size: cover;
+    overflow: hidden;
+}
+
+
+
+
+#arrow {
+}
+
+
+#spacer {    width:2px;
+}
+
+#section-2 {
+}
+
+
+.text {
+    float:right;
+    position: relative;
+    right: 10%;
+    margins:auto;
+    width: 78%;
+    max-width: 600px;
+    text-align: left;
+}
+
+.left {
+    display: block;
+    float: left;
+    width: 50%;
+}
+
+.block-100{
+    height: 100px;
+}
+
+.block-50{
+    height: 75px;
+}
+
+.header{   
+}
+
+#box {
+    width: 100%;
+	
+    
+}
